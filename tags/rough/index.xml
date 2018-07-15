@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rough on Classic</title>
+    <link>/tags/rough/</link>
+    <description>Recent content in Rough on Classic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jun 2018 14:30:06 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/rough/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Systems</title>
+      <link>/post/2018/06/27/systems/</link>
+      <pubDate>Wed, 27 Jun 2018 14:30:06 -0500</pubDate>
+      
+      <guid>/post/2018/06/27/systems/</guid>
+      <description>It&#39;s difficult to observe a system, especially from inside of it. A system doesn&#39;t exist as a thing-in-itself per-say, but the relationships and interactions between things within the system. Observation of the system is especially difficult the more complex and larger it is, obviously, but to observe a system from within it as a complex actor is nearly impossible. As an actor within a system, conscious of the system, one has knowledge of what it is that is necessarily incomplete: a member cannot encompass the set.</description>
+    </item>
+    
+  </channel>
+</rss>
