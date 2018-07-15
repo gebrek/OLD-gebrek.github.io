@@ -29,32 +29,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>One</title>
-      <link>/tags/one/</link>
-      <pubDate>Mon, 25 Jun 2018 18:20:14 -0500</pubDate>
-      
-      <guid>/tags/one/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Three</title>
-      <link>/tags/three/</link>
-      <pubDate>Mon, 25 Jun 2018 18:20:14 -0500</pubDate>
-      
-      <guid>/tags/three/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two</title>
-      <link>/tags/two/</link>
-      <pubDate>Mon, 25 Jun 2018 18:20:14 -0500</pubDate>
-      
-      <guid>/tags/two/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
