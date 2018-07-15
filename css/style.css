@@ -58,7 +58,7 @@ header {
     height: 1.75rem;
     font-family: "Lucida Console" , "Liberation Mono";
     font-size: .875rem;
-    background: #c13d3d; /* #613DC1; */
+    background: #c13d3d /* #613DC1; */
     border-bottom: 1px solid #000;
 }
 

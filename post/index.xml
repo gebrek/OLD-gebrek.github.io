@@ -6,18 +6,27 @@
     <description>Recent content in Posts on Classic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jun 2018 14:40:58 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jun 2018 14:30:06 -0500</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello</title>
-      <link>/post/2018/06/24/hello/</link>
-      <pubDate>Sun, 24 Jun 2018 14:40:58 -0500</pubDate>
+      <title>Systems</title>
+      <link>/post/2018/06/27/systems/</link>
+      <pubDate>Wed, 27 Jun 2018 14:30:06 -0500</pubDate>
       
-      <guid>/post/2018/06/24/hello/</guid>
-      <description>To wit! Is there no other? Am I alone on this mountain of thought?</description>
+      <guid>/post/2018/06/27/systems/</guid>
+      <description>It&#39;s difficult to observe a system, especially from inside of it. A system doesn&#39;t exist as a thing-in-itself per-say, but the relationships and interactions between things within the system. Observation of the system is especially difficult the more complex and larger it is, obviously, but to observe a system from within it as a complex actor is nearly impossible. As an actor within a system, conscious of the system, one has knowledge of what it is that is necessarily incomplete: a member cannot encompass the set.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Hi&#34;</title>
+      <link>/post/2018/06/25/hi/</link>
+      <pubDate>Mon, 25 Jun 2018 18:20:14 -0500</pubDate>
+      
+      <guid>/post/2018/06/25/hi/</guid>
+      <description>This is a test. 1.. 2.. ..3</description>
     </item>
     
     <item>
@@ -32,38 +41,6 @@
  Block quotes are written like so.
 They can span multiple paragraphs, if you like.
  Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex.</description>
-    </item>
-    
-    <item>
-      <title>Hacker with Bullhorn</title>
-      <link>/post/2012/04/23/hacker-with-horn/</link>
-      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2012/04/23/hacker-with-horn/</guid>
-      <description>Hacker with bullhorn: &amp;ldquo;Save your money! Accept one of our free tanks! It is invulnerable, and can drive across rocks and swamps at ninety miles an hour while getting a hundred miles to the gallon!&amp;rdquo;
-Prospective station wagon buyer: &amp;ldquo;I know what you say is true&amp;hellip;but&amp;hellip;er&amp;hellip;I don&amp;rsquo;t know how to maintain a tank!&amp;rdquo;
-Bullhorn: &amp;ldquo;You don&amp;rsquo;t know how to maintain a station wagon either!&amp;rdquo;
-Buyer: &amp;ldquo;But this dealership has mechanics on staff.</description>
-    </item>
-    
-    <item>
-      <title>Command Line Awesomeness</title>
-      <link>/post/2012/03/12/command-line-awesomeness/</link>
-      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2012/03/12/command-line-awesomeness/</guid>
-      <description>This crud is called HTML (HyperText Markup Language) and it is basically a very simple programming language instructing your web browser how to draw a page on a screen. Anyone can learn HTML and many people do. The important thing is that no matter what splendid multimedia web pages they might represent, HTML files are just telegrams.
- When Ronald Reagan was a radio announcer, he used to call baseball games by reading the terse descriptions that trickled in over the telegraph wire and were printed out on a paper tape.</description>
-    </item>
-    
-    <item>
-      <title>Juicy Code</title>
-      <link>/post/2012/01/23/juicy-code/</link>
-      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2012/01/23/juicy-code/</guid>
-      <description>Check out this JUICY! code:
-def with_value_from_database(value) self.class.from_database(name, value, type) end def with_cast_value(value) self.class.with_cast_value(name, value, type) end def with_type(type) if changed_in_place? with_value_from_user(value).with_type(type) else self.class.new(name, value_before_type_cast, type, original_attribute) end end  </description>
     </item>
     
   </channel>
