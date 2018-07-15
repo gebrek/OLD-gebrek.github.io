@@ -20,19 +20,5 @@
       <description>It&#39;s difficult to observe a system, especially from inside of it. A system doesn&#39;t exist as a thing-in-itself per-say, but the relationships and interactions between things within the system. Observation of the system is especially difficult the more complex and larger it is, obviously, but to observe a system from within it as a complex actor is nearly impossible. As an actor within a system, conscious of the system, one has knowledge of what it is that is necessarily incomplete: a member cannot encompass the set.</description>
     </item>
     
-    <item>
-      <title>Markdown Guide</title>
-      <link>/post/2014/03/14/markdown-guide/</link>
-      <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2014/03/14/markdown-guide/</guid>
-      <description>An h1 header Paragraphs are separated by a blank line.
-2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
- this one that one the other one  Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.
- Block quotes are written like so.
-They can span multiple paragraphs, if you like.
- Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex.</description>
-    </item>
-    
   </channel>
 </rss>

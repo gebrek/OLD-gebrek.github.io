@@ -8,30 +8,13 @@
   </url>
   
   <url>
-    <loc>/post/2014/03/14/markdown-guide/</loc>
-    <lastmod>2014-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/example/</loc>
-    <lastmod>2014-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
     <lastmod>2018-06-27T14:30:06-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/markdown/</loc>
-    <lastmod>2014-03-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -48,7 +31,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2014-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-27T14:30:06-05:00</lastmod>
     <priority>0</priority>
   </url>
   
