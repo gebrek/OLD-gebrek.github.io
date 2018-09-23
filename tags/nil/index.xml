@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nil on Classic</title>
+    <title>Nil on Tacit-Tales</title>
     <link>/tags/nil/</link>
-    <description>Recent content in Nil on Classic</description>
+    <description>Recent content in Nil on Tacit-Tales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jun 2018 14:30:06 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 21 Sep 2018 20:03:14 +0200</lastBuildDate>
     
 	<atom:link href="/tags/nil/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Systems</title>
-      <link>/post/2018/06/27/systems/</link>
-      <pubDate>Wed, 27 Jun 2018 14:30:06 -0500</pubDate>
+      <title>Hello Vu</title>
+      <link>/post/2018/09/21/hello-vu/</link>
+      <pubDate>Fri, 21 Sep 2018 20:03:14 +0200</pubDate>
       
-      <guid>/post/2018/06/27/systems/</guid>
-      <description>It&#39;s difficult to observe a system, especially from inside of it. A system doesn&#39;t exist as a thing-in-itself per-say, but the relationships and interactions between things within the system. Observation of the system is especially difficult the more complex and larger it is, obviously, but to observe a system from within it as a complex actor is nearly impossible. As an actor within a system, conscious of the system, one has knowledge of what it is that is necessarily incomplete: a member cannot encompass the set.</description>
+      <guid>/post/2018/09/21/hello-vu/</guid>
+      <description>One month ago, on August 20 I landed in the Netherlands to do a Master degree at the VU Amsterdam. It&#39;s been a journey and already I can tell the experience will be well worth living. My flat is filled with 12 students, all of whom seem to be good company. If I recall, 4 are Master students the rest are Bachelors.
+My neighbor at +1 is a hoot. He&#39;s an Estonian studying Mathematics.</description>
     </item>
     
   </channel>
