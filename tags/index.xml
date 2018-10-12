@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Tacit-Tales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Sep 2018 20:03:14 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 12:21:58 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>Nil</title>
       <link>/tags/nil/</link>
-      <pubDate>Fri, 21 Sep 2018 20:03:14 +0200</pubDate>
+      <pubDate>Thu, 27 Sep 2018 12:21:58 +0200</pubDate>
       
       <guid>/tags/nil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prosetry</title>
+      <link>/tags/prosetry/</link>
+      <pubDate>Fri, 05 Oct 2018 20:45:00 +0200</pubDate>
+      
+      <guid>/tags/prosetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol-validation</title>
+      <link>/tags/protocol-validation/</link>
+      <pubDate>Fri, 12 Oct 2018 16:42:28 +0200</pubDate>
+      
+      <guid>/tags/protocol-validation/</guid>
       <description></description>
     </item>
     

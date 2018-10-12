@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protocol-validation on Tacit-Tales</title>
+    <link>/tags/protocol-validation/</link>
+    <description>Recent content in Protocol-validation on Tacit-Tales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Oct 2018 16:42:28 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/protocol-validation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello You</title>
+      <link>/post/2018/10/12/hello-you/</link>
+      <pubDate>Fri, 12 Oct 2018 16:42:28 +0200</pubDate>
+      
+      <guid>/post/2018/10/12/hello-you/</guid>
+      <description>I&#39;ve been found! So I heard. My work-partner for class said someone found a repository I made to collaborate on the homework assignment. I wonder how long they spent googling variations of the term &#34;protocol validation&#34;, maybe not much it&#39;s not all that common...
+Not sure if they&#39;re sleuthful enough to find this little blog. Probably not interested! If you do happen on this though, drop me a line, I&#39;d be happy to share thoughts.</description>
+    </item>
+    
+  </channel>
+</rss>

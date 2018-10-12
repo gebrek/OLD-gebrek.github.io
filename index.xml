@@ -6,10 +6,41 @@
     <description>Recent content in Home on Tacit-Tales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Sep 2018 20:03:14 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 16:42:28 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello You</title>
+      <link>/post/2018/10/12/hello-you/</link>
+      <pubDate>Fri, 12 Oct 2018 16:42:28 +0200</pubDate>
+      
+      <guid>/post/2018/10/12/hello-you/</guid>
+      <description>I&#39;ve been found! So I heard. My work-partner for class said someone found a repository I made to collaborate on the homework assignment. I wonder how long they spent googling variations of the term &#34;protocol validation&#34;, maybe not much it&#39;s not all that common...
+Not sure if they&#39;re sleuthful enough to find this little blog. Probably not interested! If you do happen on this though, drop me a line, I&#39;d be happy to share thoughts.</description>
+    </item>
+    
+    <item>
+      <title>Echoen</title>
+      <link>/post/2018/10/05/echoen/</link>
+      <pubDate>Fri, 05 Oct 2018 20:45:00 +0200</pubDate>
+      
+      <guid>/post/2018/10/05/echoen/</guid>
+      <description>Life&#39;s full of do&#39;s and don&#39;t&#39;s. That many apostrophes may be among them.
+How to catch cache the fleeting thoughts they whisk by like lost time. Who&#39;s the elephant who&#39;s the rider. How much of now is back then? How have previous potentials reduced to now? Where in time do my roots belong?
+There are sleeves of me sloughed off and withered from memory, but existing as standing waves in time.</description>
+    </item>
+    
+    <item>
+      <title>One Half One Fifth One Half</title>
+      <link>/post/2018/09/27/one-half-one-fifth-one-half/</link>
+      <pubDate>Thu, 27 Sep 2018 12:21:58 +0200</pubDate>
+      
+      <guid>/post/2018/09/27/one-half-one-fifth-one-half/</guid>
+      <description>It has been about four weeks since the start of the period, and the semester. The classes have been alright, although I had to drop the one I was really interested in: Lambda Calculus. Not sure if I&#39;ll ever have a satisfying class on the topics of Lisp and its foundations.
+Protocol Validation is alright, it&#39;s got a good approach to the topics covered. Mu-calculus is up my alley, the way of expressing process is simple yet expressive.</description>
+    </item>
     
     <item>
       <title>Hello Vu</title>
