@@ -3,73 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/2018/10/12/hello-you/</loc>
-    <lastmod>2018-10-12T16:42:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018/10/05/echoen/</loc>
-    <lastmod>2018-10-05T20:45:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018/09/27/one-half-one-fifth-one-half/</loc>
-    <lastmod>2018-09-27T12:21:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018/09/21/hello-vu/</loc>
-    <lastmod>2018-09-21T20:03:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018/06/27/systems/</loc>
-    <lastmod>2018-06-27T14:30:06-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-10-12T16:42:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/nil/</loc>
-    <lastmod>2018-09-27T12:21:58+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2018-10-12T16:42:28+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/prosetry/</loc>
-    <lastmod>2018-10-05T20:45:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/protocol-validation/</loc>
-    <lastmod>2018-10-12T16:42:28+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/rough/</loc>
-    <lastmod>2018-06-27T14:30:06-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-09-27T12:21:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
